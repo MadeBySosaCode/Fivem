@@ -1,7 +1,7 @@
-### **Fiche Personnage FiveM : Sam Sung**  
+### **Fiche Personnage FiveM : Ming Zhen**  
 
 #### **Identité**  
-- **Nom complet** : Sam Sung  
+- **Nom complet** : Ming Zhen  
 - **Surnom** : Sosa  
 - **Âge** : 34 ans  
 - **Nationalité** : Asiatique  
@@ -17,9 +17,9 @@
   - Une cicatrice fine sous la mâchoire gauche, souvenir d’un combat de rue  
 
 #### **Biographie**  
-Sam Sung a grandi dans une petite maison à Singapour, entouré par une famille aimante mais prise par les luttes économiques du quotidien. Sa mère, cuisinière dans un marché local, lui a transmis une éthique de travail rigoureuse, tandis que son père, un mécanicien passionné, lui a appris à démonter et remonter tout ce qui lui tombait sous la main.  
+Ming Zhen a grandi dans une petite maison à Singapour, entouré par une famille aimante mais prise par les luttes économiques du quotidien. Sa mère, cuisinière dans un marché local, lui a transmis une éthique de travail rigoureuse, tandis que son père, un mécanicien passionné, lui a appris à démonter et remonter tout ce qui lui tombait sous la main.  
 
-Cependant, à l’âge de 17 ans, tout bascule lorsque son père est accusé à tort de trafic d’armes et disparaît subitement. Sam, convaincu de l’innocence de son père, décide d’abandonner ses études pour découvrir la vérité. Il plonge alors dans le monde des bas-fonds, où il apprend à manipuler la technologie, à survivre aux dangers de la rue et à évoluer dans des cercles peu recommandables.  
+Cependant, à l’âge de 17 ans, tout bascule lorsque son père est accusé à tort de trafic d’armes et disparaît subitement. Ming, convaincu de l’innocence de son père, décide d’abandonner ses études pour découvrir la vérité. Il plonge alors dans le monde des bas-fonds, où il apprend à manipuler la technologie, à survivre aux dangers de la rue et à évoluer dans des cercles peu recommandables.  
 
 À 25 ans, il quitte Singapour et s’installe dans une grande ville des États-Unis (au choix selon votre serveur FiveM). Là-bas, il travaille comme réparateur de matériel technologique pour les civils le jour, mais agit en tant qu’informateur et hacker à la demande la nuit. Sa réputation de “problème-soluteur” discret et efficace attire l’attention, pour le meilleur et pour le pire.  
 
@@ -37,7 +37,7 @@ Cependant, à l’âge de 17 ans, tout bascule lorsque son père est accusé à 
   - Une difficulté à accorder sa confiance, ce qui peut l’isoler  
 
 #### **Compétences**  
-- **Hacking et piratage** : Sam peut infiltrer des systèmes complexes, récupérer des données ou désactiver des alarmes.  
+- **Hacking et piratage** : Ming peut infiltrer des systèmes complexes, récupérer des données ou désactiver des alarmes.  
 - **Conduite** : Grâce à l’enseignement de son père, il est un excellent conducteur, capable de manœuvrer à grande vitesse.  
 - **Combat au couteau** : Autodidacte, il a appris à manier les lames dans les rues de Singapour.  
 
@@ -49,20 +49,20 @@ Cependant, à l’âge de 17 ans, tout bascule lorsque son père est accusé à 
 
 #### **Relations**  
 - **Famille** :  
-  - **Mère** : Mei Sung, toujours vivante à Singapour, travaille comme cuisinière et reste une source d’inspiration pour Sam  
-  - **Père** : Inconnu, probablement mort ou détenu, mais son ombre hante les décisions de Sam  
+  - **Mère** : Mei Sung, toujours vivante à Singapour, travaille comme cuisinière et reste une source d’inspiration pour Ming  
+  - **Père** : Inconnu, probablement mort ou détenu, mais son ombre hante les décisions de Ming  
 - **Amis/Alliés** :  
-  - **Victor Alvarez** : Propriétaire d’un garage clandestin, qui aide Sam à obtenir des véhicules modifiés  
+  - **Victor Alvarez** : Propriétaire d’un garage clandestin, qui aide Ming à obtenir des véhicules modifiés  
   - **Hana Ito** : Une journaliste d’investigation qui lui fournit des informations en échange de secrets technologiques  
 - **Rivaux/Ennemis** :  
   - **L'Ombre Écarlate** : Une organisation criminelle internationale liée à la disparition de son père  
-  - **Ethan Moore** : Un détective corrompu qui poursuit Sam pour des raisons personnelles  
+  - **Ethan Moore** : Un détective corrompu qui poursuit Ming pour des raisons personnelles  
 
 #### **Objectifs**  
-Sam Sung vit pour deux raisons :  
+Ming Zhen vit pour deux raisons :  
 1. Découvrir la vérité derrière la disparition de son père et faire tomber les responsables.  
 2. Construire une vie meilleure pour lui et sa mère, loin de la corruption et des trahisons.  
 
 #### **Notes supplémentaires**  
-- Sam a une passion secrète pour la musique classique et joue parfois du piano pour se détendre.  
+- Ming a une passion secrète pour la musique classique et joue parfois du piano pour se détendre.  
 - Il garde un carnet noir dans lequel il note toutes ses observations sur les organisations qu’il surveille, ses plans et ses rêves.  
