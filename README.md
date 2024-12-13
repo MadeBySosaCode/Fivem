@@ -34,7 +34,8 @@ Cependant, à l’âge de 17 ans, tout bascule lorsque son père est accusé à 
   - Charisme naturel, lui permettant de négocier dans les situations tendues  
 - **Faiblesses** :  
   - Une tendance à prendre des risques inutiles lorsqu’il est émotionnellement impliqué  
-  - Une difficulté à accorder sa confiance, ce qui peut l’isoler  
+  - Une difficulté à accorder sa confiance, ce qui peut l’isoler
+  - Peur extrême des araignées, pouvant le rendre nerveux et perdre son sang-froid si confronté à l’une d’elles
 
 #### **Compétences**  
 - **Hacking et piratage** : Chen peut infiltrer des systèmes complexes, récupérer des données ou désactiver des alarmes.  
