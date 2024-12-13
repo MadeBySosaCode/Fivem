@@ -8,8 +8,8 @@
 - **Lieu de naissance** : Singapour  
 
 #### **Description physique**  
-- **Taille** : 1m81  
-- **Poids** : 75 kg  
+- **Taille** : 1m87  
+- **Poids** : 78 kg  
 - **Cheveux** : Noirs & Rose, légèrement ondulés et souvent coiffés vers l'arrière  
 - **Yeux** : Noirs profonds, donnant une impression de calme mais de détermination  
 - **Signes distinctifs** :  
